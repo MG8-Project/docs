@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [👋 Welcome to A Product](welcome-to-a-product.md)
+* [👋 Welcome to MG8 Project](welcome-to-mg8-project.md)
 
 ## Overview
 
