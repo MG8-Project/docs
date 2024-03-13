@@ -28,3 +28,4 @@
     * [Lockup Contract](use-cases/for-developers/mainnet/lockup-contract.md)
   * [Testnet](use-cases/for-developers/testnet/README.md)
     * [Megalink Token Contract](use-cases/for-developers/testnet/megalink-token-contract.md)
+    * [Lockup Contract](use-cases/for-developers/testnet/lockup-contract.md)
