@@ -66,3 +66,13 @@
 
 
 
+### 📌 \[Deprecated] Lockup - MeglinkLockup
+
+* Contract (MegalinkTokenLock) : <mark style="color:red;">0x8f99C212Cf542bBCE7aCed04f6500B7bC78FBc75</mark>
+* Admin : 0xAe1350F1510014Aa0e45C1301F8F9eD8701Fcd23 (57E1)
+* Deployed At : 2023.12.18
+* Solidity Compiler Version : v0.8.19
+* Verified : [True](https://bscscan.com/address/0x8f99C212Cf542bBCE7aCed04f6500B7bC78FBc75#code)
+
+
+
