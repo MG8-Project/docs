@@ -12,5 +12,5 @@
 > * Token Name : Megalink
 > * Token Symbol : MG8
 > * Total Supply : 1,000,000,000 MG8
-> * 기타
->   * Owner 변경  Ryan Ledger -> Dev Team Ledger
+> * ETC
+>   * Owner ledger Changed Ryan - Ledger to Topaz Leder
