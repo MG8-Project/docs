@@ -3,7 +3,7 @@
 ### 📌 Lockup (Vesting) - Ecosystem Growth
 
 * Contract (InvestorTokenLock\_V2) : <mark style="color:red;">0xdd173e8E57143b8F340f90d2f90944299a097D8D</mark>
-* Admin : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Topaz)
+* Admin : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
 * Deployed At : 2024.03.19
 * Solidity Compiler Version : v0.8.19
 * Verified : False ([ABI Information](https://mantisco.atlassian.net/wiki/spaces/BLOCKCHAIN/pages/428376865/CV+Contract+ABI))
@@ -13,7 +13,7 @@
 ### 📌 Lockup (Vesting) - Ecosystem Partners / Foundation / Core Team / Coummnity & MKT Treasury
 
 * Contract (InvestorTokenLock\_V2) : <mark style="color:red;">0x30a8992Ac866eA1474759d47fc5B70201F20Ef21</mark>
-* Admin : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Topaz)
+* Admin : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
 * Deployed At : 2024.03.19
 * Solidity Compiler Version : v0.8.19
 * Verified : False ([ABI Information](https://mantisco.atlassian.net/wiki/spaces/BLOCKCHAIN/pages/428376865/CV+Contract+ABI))
@@ -23,7 +23,7 @@
 ### 📌 Lockup (Vesting) - Investor
 
 * Contract (InvestorTokenLock) : <mark style="color:red;">0x99536Dad7E9dca1115B99A254a55330087A1029a</mark>
-* Admin :  0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Topaz)
+* Admin :  0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
 * Deployed At : 2024.03.19
 * Solidity Compiler Version : v0.8.19
 * Verified : False ([ABI Information](https://mantisco.atlassian.net/wiki/spaces/BLOCKCHAIN/pages/428376865/CV+Contract+ABI))

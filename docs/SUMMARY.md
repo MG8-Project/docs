@@ -3,29 +3,16 @@
 * [Introduction](README.md)
 * [👋 Welcome to Megalink](welcome-to-megalink.md)
 
-## Overview
+## Contracts Info
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [📄 Mainnet](contracts-info/mainnet/README.md)
+  * [Megalink Token Contract](contracts-info/mainnet/megalink-token-contract.md)
+  * [Lockup Contract](contracts-info/mainnet/lockup-contract.md)
+* [🚧 Testnet](contracts-info/testnet/README.md)
+  * [Megalink Token Contract](contracts-info/testnet/megalink-token-contract.md)
+  * [Lockup Contract](contracts-info/testnet/lockup-contract.md)
 
-## Product Guides
+## 3rd-Party
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers/README.md)
-  * [Mainnet](use-cases/for-developers/mainnet/README.md)
-    * [Megalink Token Contract](use-cases/for-developers/mainnet/megalink-token-contract.md)
-    * [Lockup Contract](use-cases/for-developers/mainnet/lockup-contract.md)
-  * [Testnet](use-cases/for-developers/testnet/README.md)
-    * [Megalink Token Contract](use-cases/for-developers/testnet/megalink-token-contract.md)
-    * [Lockup Contract](use-cases/for-developers/testnet/lockup-contract.md)
+* [🎨 For Designers](3rd-party/for-designers.md)
+* [🖥️ For Developers](3rd-party/for-developers.md)

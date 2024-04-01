@@ -1,7 +1,7 @@
 # Megalink Token Contract
 
 * Contract : <mark style="color:red;">0x17b37e08802a5bC982246EA4a4806fc65CC73bb5</mark>
-* Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (개발실 Topaz AC-1)
+* Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Dev Team AC-1)
 * Network : BSC Testnet
 * Deployed At : 2024.01.10
 * Solidity Compiler Version : v0.8.19
@@ -11,6 +11,6 @@
 >
 > * Token Name : Megalink
 > * Token Symbol : MG8
-> * Total Supply : 1,000,000,000 CVTX
+> * Total Supply : 1,000,000,000 MG8
 > * 기타
->   * Owner 변경  Ryan Ledger -> Topaz Ledger)
+>   * Owner 변경  Ryan Ledger -> Dev Team Ledger
