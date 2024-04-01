@@ -13,4 +13,4 @@
 > * Token Symbol : MG8
 > * Total Supply : 1,000,000,000 MG8
 > * ETC
->   * Owner ledger Changed Ryan - Ledger to Topaz Leder
+>   * Owner ledger Changed Ryan Ledger to Topaz Ledger
