@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [👋 Welcome to Megalink](welcome-to-megalink.md)
+  * [Welcom to Meaglink](https://docs.mega8.io)
 
 ## Contracts Info
 
