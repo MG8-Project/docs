@@ -10,6 +10,13 @@
   * [Lockup Contract](contracts-info/mainnet/lockup-contract.md)
 * [🚧 Testnet](contracts-info/testnet/README.md)
   * [Megalink Token Contract](contracts-info/testnet/megalink-token-contract.md)
+  * [Staked Megalink Token(stMG8) Contract](contracts-info/testnet/staked-megalink-token-stmg8-contract.md)
+  * [Referall Manager Contract](contracts-info/testnet/referall-manager-contract.md)
+  * [Vault contracts](contracts-info/testnet/vault-contracts/README.md)
+    * [Vault Router V2 Contract](contracts-info/testnet/vault-contracts/vault-router-v2-contract.md)
+    * [Vault Pool 1](contracts-info/testnet/vault-contracts/vault-pool-1.md)
+    * [Vault Pool 2](contracts-info/testnet/vault-contracts/vault-pool-2.md)
+    * [Vault Pool 3](contracts-info/testnet/vault-contracts/vault-pool-3.md)
   * [Lockup Contract](contracts-info/testnet/lockup-contract.md)
 
 ## 3rd-Party
