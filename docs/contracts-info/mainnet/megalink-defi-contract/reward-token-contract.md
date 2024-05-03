@@ -2,16 +2,12 @@
 description: 'Updated : 2024.05.03'
 ---
 
-# Megalink Token Contract
+# Reward Token Contract
 
-* Contract : <mark style="color:red;">0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99</mark>
+
+
+* [Contract](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99) : <mark style="color:red;">0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99</mark>
 * Deployer : 0x90B73C48F420aF66F5e17dE4e00cFA9431FDf8c9 (Ledger 3456 - AC1)
-* Deployed At : 2024.01.09
+* Deployed At : 2024.05.03
 * Solidity Compiler Version : v0.8.19
 * Verified : [True](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99#code)
-
-> More Details
->
-> * Token Name : Megalink
-> * Token Symbol : MG8
-> * Total Supply : 1,000,000,000 MG8
