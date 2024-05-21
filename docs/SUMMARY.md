@@ -18,6 +18,7 @@
     * [Vault Pool 2](contracts-info/mainnet/vault-contracts/vault-pool-2.md)
     * [Vault Pool 3](contracts-info/mainnet/vault-contracts/vault-pool-3.md)
   * [Lockup Contract](contracts-info/mainnet/lockup-contract.md)
+  * [Event Transfer Contract](contracts-info/mainnet/event-transfer-contract.md)
 * [🚧 Testnet](contracts-info/testnet/README.md)
   * [Megalink Token Contract](contracts-info/testnet/megalink-token-contract.md)
   * [Megalink Defi Contract](contracts-info/testnet/megalink-defi-contract/README.md)

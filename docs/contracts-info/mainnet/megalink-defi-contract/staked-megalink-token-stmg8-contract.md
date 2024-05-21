@@ -4,7 +4,7 @@ description: 'Updated : 2024.05.14'
 
 # Staked Megalink Token(stMG8) Contract
 
-
+## 📌  Contract Information <a href="#stg-contract-information" id="stg-contract-information"></a>
 
 * [Contract](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99) : <mark style="color:red;">0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99</mark>
 * Deployer : 0x90B73C48F420aF66F5e17dE4e00cFA9431FDf8c9&#x20;

@@ -8,6 +8,7 @@ description: 'Updated : 2024.05.21'
 
 * [Contract](https://bscscan.com/address/0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06)  : <mark style="color:red;">0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06</mark>
 * Admin : 0x02aBb79E0F80CDC1dBc9470701cC14Acf9D80346 (25CD)
+* Network : BSC Mainnet
 * Solidity Compiler Version : v0.8.19
 * Verified : False&#x20;
 
