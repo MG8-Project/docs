@@ -13,15 +13,15 @@ description : MG8  token Vesting Site
 * URL : [https://investor.mega8.io/private](https://investor.mega8.io/private)
 * Route:
   * " / " :  MG8 investor가 claim을 하기 위한 페이지
-  * " /private " : 컨트랙트 소유자가 claim을 하기 위한 페이지
+  * " /private " : private investor가 claim을 하기 위한 페이지
   * " /stakingpromotion " : Vesting 내역 확인
 
 ### 🚧 Testnet
 
-* URL : [https://dev-vesting-mega8.io](https://dev-vesting-mega8.io)
+* URL : [https://dev-vesting.mega8.io/](https://dev-vesting.mega8.io/)
 * Route:
   * " / " : MG8 investor가 claim을 하기 위한 페이지
-  * " /private " : 컨트랙트 소유자가 claim을 하기 위한 페이지
+  * " /private " : private investor가 claim을 하기 위한 페이지
   * " /stakingpromotion "  : Vesting 내역 확인
 
 
