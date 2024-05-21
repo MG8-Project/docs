@@ -1,4 +1,17 @@
+---
+description: 'Updated : 2024.05.21'
+---
+
 # Lockup Contract
+
+### 📌 Lockup (Staking Promotion) - Staking Promotion
+
+* [Contract](https://testnet.bscscan.com/address/0xE9EF16bEa38A38f9873b1ae2284D45958875E753)  : <mark style="color:red;">0xE9EF16bEa38A38f9873b1ae2284D45958875E753</mark>
+* Admin : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (개발실 렛저 - 팀장)
+* Solidity Compiler Version : v0.8.19
+* Verified : False&#x20;
+
+
 
 ### 📌 Lockup (Vesting) - Ecosystem Growth
 
