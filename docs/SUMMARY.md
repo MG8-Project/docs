@@ -31,6 +31,8 @@
     * [Vault Pool 2](contracts-info/testnet/vault-contracts/vault-pool-2.md)
     * [Vault Pool 3](contracts-info/testnet/vault-contracts/vault-pool-3.md)
   * [Lockup Contract](contracts-info/testnet/lockup-contract.md)
+  * [Helper Contracts](contracts-info/testnet/helper-contracts/README.md)
+    * [Event Transfer Contract](contracts-info/testnet/helper-contracts/event-transfer-contract.md)
 * [Vesting Site Info](contracts-info/vesting-site-info.md)
 
 ## 3rd-Party
