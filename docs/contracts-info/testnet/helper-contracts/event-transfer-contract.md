@@ -4,7 +4,7 @@ description: 'Updated : 2024.06.07'
 
 # Event Transfer Contract
 
-### 📌 \[STG\&DEV] Contract Information <a href="#stg-and-dev-contract-information" id="stg-and-dev-contract-information"></a>
+### 📌 \[STG] Contract Information <a href="#stg-and-dev-contract-information" id="stg-and-dev-contract-information"></a>
 
 * [Contract](https://testnet.bscscan.com/address/0x29C8E054c39Ae65e53f439448d5f99b5a161e398) : <mark style="color:red;">0x29C8E054c39Ae65e53f439448d5f99b5a161e398</mark>
 * Deployer : 0xC3932FFD8D85697f4c18Cce2Fb4Dc93b81a9aE49
