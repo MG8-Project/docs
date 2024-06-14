@@ -1,5 +1,5 @@
 ---
-description: 'Updated : 2024.05.21'
+description: 'Updated : 2024.06.14'
 ---
 
 # Lockup Contract
@@ -40,7 +40,7 @@ description: 'Updated : 2024.05.21'
 
 ### 📌 Lockup (Vesting) - Ecosystem Partners
 
-* Contract (InvestorTokenLock\_V2) : <mark style="color:red;">0xC7101E6474127236A7138D7c84ca631D156D6B9c</mark>
+* [Contract](https://bscscan.com/address/0xda10a0970c713f7A003361b722824eB0efD7CdDe) (InvestorTokenLock\_V2) : <mark style="color:red;">0xda10a0970c713f7A003361b722824eB0efD7CdDe</mark>
   * Deployer : 0xCD3b464aB444f5D3Ff77dE5E342732f32a061651 (Ledger - 34E6)
   * Network : BSC Mainnet
   * Solidity Compiler Version : v0.8.19
