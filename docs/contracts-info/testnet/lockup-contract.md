@@ -4,7 +4,7 @@ description: 'Updated : 2024.05.21'
 
 # Lockup Contract
 
-### 📌 Lockup (Staking Promotion) - Staking Promotion
+### 📌 Lockup (Vesting) - Staking Promotion
 
 * [Contract](https://testnet.bscscan.com/address/0xE9EF16bEa38A38f9873b1ae2284D45958875E753) (MegalinkTokenLock) : <mark style="color:red;">0xE9EF16bEa38A38f9873b1ae2284D45958875E753</mark>
   * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)

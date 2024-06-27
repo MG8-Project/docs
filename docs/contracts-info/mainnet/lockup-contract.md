@@ -4,7 +4,7 @@ description: 'Updated : 2024.06.20'
 
 # Lockup Contract
 
-### 📌 Lockup (Private Round) - Staking Promotion
+### 📌 Lockup (Vesting) - Private Round
 
 * [Contract](https://bscscan.com/address/0xA91b9C8EFfB50eAA06a748f641043d31D09a0487) (InvestorTokenLock\_V2) : <mark style="color:red;">0xA91b9C8EFfB50eAA06a748f641043d31D09a0487</mark>
   * Deployer : 0xf561d37B2d532ef71EC7065383ca46fd8bB7bf78 (Ledger - C6D5)
@@ -18,7 +18,7 @@ description: 'Updated : 2024.06.20'
 
 
 
-### 📌 Lockup (Staking Promotion) - Staking Promotion
+### 📌 Lockup (Vesting) - Staking Promotion
 
 * [Contract](https://bscscan.com/address/0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06) (MegalinkTokenLock) : <mark style="color:red;">0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06</mark>
   * Deployer : 0x02aBb79E0F80CDC1dBc9470701cC14Acf9D80346 (25CD)
