@@ -1,8 +1,8 @@
 ---
-description: 'Updated : 2024.05.14'
+description: 'Updated : 2024.07.05'
 ---
 
-# Vault Pool 3
+# Pool 3
 
 ## 📌  Contract Information <a href="#stg-contract-information" id="stg-contract-information"></a>
 
