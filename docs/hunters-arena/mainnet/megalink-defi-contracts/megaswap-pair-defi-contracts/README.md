@@ -1,2 +1,0 @@
-# MegaSwap - Pair Defi Contracts
-
