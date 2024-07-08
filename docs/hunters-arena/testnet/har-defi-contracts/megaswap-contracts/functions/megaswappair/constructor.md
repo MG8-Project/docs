@@ -54,7 +54,19 @@ pairContract = await (await ethers.getContractFactory("MantiswapPair")).deploy(
 );
 
 parseInt(new Date().getTime() / 1000)+ 86400*30 = 30일
+
 ```
 
 
 
+> More Details
+>
+> * Pair Tokens : MG8-HART
+> * Reward Token : HART Token( HART )
+> * Swap Fee : 0.25%
+> * Protocol Fee : 0.05%
+> * 총 리워드 수량 : 240,000 HART
+> * 초당 리워드 : 0.182648401826484 HART
+> * 초기 풀 입금량 : ( 1 : 4 )
+>   * 25,000 MG8
+>   * 1,000,000 HART

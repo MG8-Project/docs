@@ -17,7 +17,17 @@ description: 'Updated : 2024.07.08'
 * Solidity Compiler Version : v0.8.13
 * Verified : False
 
-More Details
 
+
+> More Details
+>
 > * **Type :** Pair Staking & Swap (MG8-HART)
+> * **Reward Token** : HART Token( HART )
+> * **Swap Fee** : 0.25%
+> * **Protocol Fee** : 0.05%
+> * **총 리워드 수량** : 240,000 HART
+> * **초당 리워드** : 0.182648401826484 HART
+> * **초기 풀 입금량** : ( 1 : 4 )
+>   * 25,000 MG8
+>   * 1,000,000 HART
 > * **End Time :** 2025년 7월 8일 17:00
