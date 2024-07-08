@@ -2,13 +2,13 @@
 description: 'Updated : 2024.07.08'
 ---
 
-# MegaswapCompute
+# MegaSwapCompute
 
 ## Contract info
 
-**Contract name**: MegaswapCompute
+**Contract name**: MegaSwapCompute
 
-View the **MegaswapCompute** contract on:
+View the **MegaSwapCompute** contract on:
 
 
 

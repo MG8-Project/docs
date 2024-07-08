@@ -2,13 +2,13 @@
 description: 'Updated : 2024.07.08'
 ---
 
-# MegaswapPairStakingRouter
+# MegaSwapPairStakingRouter
 
 ## Contract info
 
-**Contract name**: MegaswapPairStakingRouter
+**Contract name**: MegaSwapPairStakingRouter
 
-View the **MegawapPairStakingRouter** contract on:
+View the **MegaSwapPairStakingRouter** contract on:
 
 
 

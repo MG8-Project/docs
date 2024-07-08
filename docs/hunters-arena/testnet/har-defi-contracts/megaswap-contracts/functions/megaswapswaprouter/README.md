@@ -2,13 +2,13 @@
 description: 'Updated : 2024.07.08'
 ---
 
-# MegaswapSwapRouter
+# MegaSwapSwapRouter
 
 ## Contract info
 
-**Contract name**: ClingswapPairSwapRouter
+**Contract name**: MegaSwapPairSwapRouter
 
-View the **MegaswapSwapRouter** contract on:
+View the **MegaSwapSwapRouter** contract on:
 
 
 

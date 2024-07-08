@@ -2,13 +2,13 @@
 description: 'Updated : 2024.07.08'
 ---
 
-# MegaswapPair
+# MegaSwapPair
 
 ## Contract info
 
-**Contract name**: MegaswapPair
+**Contract name**: MegaSwapPair
 
-View the **MegaswapPair** contract on:
+View the **MegaSwapPair** contract on:
 
 
 
