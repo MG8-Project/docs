@@ -8,7 +8,7 @@ description: 'Updated : 2024.07.08'
 
 ## 📌  \[DEV] Contract Information <a href="#stg-contract-information" id="stg-contract-information"></a>
 
-* [Contract](https://testnet.bscscan.com/address/0x7e8BF4e82CF2BB371D0D1204b1dc2070266F3AA7) : <mark style="color:orange;">0x7e8BF4e82CF2BB371D0D1204b1dc2070266F3AA7</mark>
+* [Contract](https://testnet.bscscan.com/address/0x7e8BF4e82CF2BB371D0D1204b1dc2070266F3AA7) : <mark style="color:red;">0x7e8BF4e82CF2BB371D0D1204b1dc2070266F3AA7</mark>
 * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
 * Network : BSC Testnet
 * Solidity Compiler Version : v0.8.19
