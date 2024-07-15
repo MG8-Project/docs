@@ -6,7 +6,7 @@ description: 'Updated : 2024.07.08'
 
 ## Contract info
 
-**Contract name**: MegaswapPairFactory
+**Contract name**: MegaSwapPairFactory
 
 View the **MegaswapPairFactory** contract on:
 

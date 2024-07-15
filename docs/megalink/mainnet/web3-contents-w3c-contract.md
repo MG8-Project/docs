@@ -4,7 +4,7 @@ description: 'Update date: 2024.07.08'
 
 # Web3 Contents(W3C) Contract
 
-## 📌 \[DEV] Contract Information
+## 📌Contract Information
 
 * Contract&#x20;
   * [Manage Factory ](https://testnet.bscscan.com/address/0x9F07f54E0860BDcF0420A73787B050Cf46897BdB):&#x20;
