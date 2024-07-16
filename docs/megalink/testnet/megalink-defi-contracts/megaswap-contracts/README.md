@@ -3,7 +3,7 @@
 ## 📌 \[DEV] Contract Information <a href="#stg-contract-information" id="stg-contract-information"></a>
 
 * Contract
-  * [wMatic](https://testnet.bscscan.com/address/0xc3A67EB153a77B7fa7Fcb2Ff977d0d851b90C57F) : <mark style="color:red;">0xc3A67EB153a77B7fa7Fcb2Ff977d0d851b90C57F</mark>
+  * [wBNB Token Contract](https://testnet.bscscan.com/address/0xc3A67EB153a77B7fa7Fcb2Ff977d0d851b90C57F) : <mark style="color:red;">0xc3A67EB153a77B7fa7Fcb2Ff977d0d851b90C57F</mark>
   * Pair Pool Contract
     * [MegaSwap Pair Factory](https://testnet.bscscan.com/address/0x6426A5E2Df0ADf19923aFc5BA16B63435198d2aB)[ ](https://amoy.polygonscan.com/address/0x7F8dFD8D40a833cDA4816dFC429820F03fBCCf70): <mark style="color:red;">0x6426A5E2Df0ADf19923aFc5BA16B63435198d2aB</mark>
     * [MegaSwap Pair Staking Router :](https://testnet.bscscan.com/address/0x3523d8Bf06358079CE9100F12eCC855cF2E6684a) <mark style="color:red;">0x3523d8Bf06358079CE9100F12eCC855cF2E6684a</mark>
