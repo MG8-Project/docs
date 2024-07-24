@@ -4,14 +4,6 @@ description: 'Updated : 2024.05.21'
 
 # Lockup Contract
 
-### 📌 Lockup (Vesting) - Investor 2
-
-* [Contract](https://testnet.bscscan.com/address/0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D) (MegalinkTokenLock) : <mark style="color:red;">0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D</mark>
-  * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
-  * Network : BSC Testnet
-  * Solidity Compiler Version : v0.8.19
-  * Verified : False&#x20;
-
 
 
 ### 📌 Lockup (Vesting) - Staking Promotion
@@ -51,6 +43,16 @@ description: 'Updated : 2024.05.21'
   * Network : BSC Testnet
   * Solidity Compiler Version : v0.8.19
   * Verified : False ([ABI Information](https://mantisco.atlassian.net/wiki/spaces/BLOCKCHAIN/pages/428376865/CV+Contract+ABI))
+
+
+
+### 📌 Lockup (Vesting) - Investor 2
+
+* [Contract](https://testnet.bscscan.com/address/0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D) (MegalinkTokenLock) : <mark style="color:red;">0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D</mark>
+  * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
+  * Network : BSC Testnet
+  * Solidity Compiler Version : v0.8.19
+  * Verified : False&#x20;
 
 
 
