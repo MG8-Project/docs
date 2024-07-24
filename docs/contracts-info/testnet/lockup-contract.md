@@ -4,6 +4,14 @@ description: 'Updated : 2024.05.21'
 
 # Lockup Contract
 
+### 📌 Lockup (Vesting) - Private Round <a href="#lockup-vesting-private-round" id="lockup-vesting-private-round"></a>
+
+* [Contract](https://testnet.bscscan.com/address/0xB0156d991258b46bDb919f5543cD2D936B50b842) (InvestorTokenLock\_V2) : <mark style="color:red;">0xB0156d991258b46bDb919f5543cD2D936B50b842</mark>
+  * Deployer : 0xa44ED2FB17239bBd77E0975F03B4D16acCe05D94
+  * Network : BSC Testnet
+  * Solidity Compiler Version : v0.8.19
+  * Verified : False
+
 
 
 ### 📌 Lockup (Vesting) - Staking Promotion
