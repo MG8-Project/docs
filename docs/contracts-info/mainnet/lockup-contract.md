@@ -1,5 +1,5 @@
 ---
-description: 'Updated : 2024.06.20'
+description: 'Updated : 2024.07.24'
 ---
 
 # Lockup Contract
