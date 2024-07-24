@@ -20,7 +20,7 @@ description: 'Updated : 2024.06.20'
 
 ### 📌 Lockup (Vesting) - Staking Promotion
 
-* [Contract](https://bscscan.com/address/0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06) (MegalinkTokenLock) : <mark style="color:red;">0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06</mark>
+* [Contract](https://bscscan.com/address/0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06) (MegalinkLockup) : <mark style="color:red;">0x5Cf65A860ef36E2eb26BE3F39084946393cB2b06</mark>
   * Deployer : 0x02aBb79E0F80CDC1dBc9470701cC14Acf9D80346 (25CD)
   * Network : BSC Mainnet
   * Solidity Compiler Version : v0.8.19
@@ -30,7 +30,7 @@ description: 'Updated : 2024.06.20'
 
 ### 📌 Lockup (Vesting) - Ecosystem Growth
 
-* [Contract](https://bscscan.com/address/0x20B21eC718c1893EcB43baB958F8Bc67A312cC82) (MegalinkTokenLock) : <mark style="color:red;">0x20B21eC718c1893EcB43baB958F8Bc67A312cC82</mark>
+* [Contract](https://bscscan.com/address/0x20B21eC718c1893EcB43baB958F8Bc67A312cC82) (MegalinkLockup) : <mark style="color:red;">0x20B21eC718c1893EcB43baB958F8Bc67A312cC82</mark>
   * Deployer : 0xf561d37B2d532ef71EC7065383ca46fd8bB7bf78 (Ledger - C6D5)
   * Network : BSC Mainnet
   * Solidity Compiler Version : v0.8.19
