@@ -26,8 +26,8 @@ description: 'Updated : 2024.07.24'
 
 ### 📌 Lockup (Vesting) - Ecosystem Growth
 
-* [Contract](https://testnet.bscscan.com/address/0xdd173e8E57143b8F340f90d2f90944299a097D8D) (InvestorTokenLock\_V2) : <mark style="color:red;">0xdd173e8E57143b8F340f90d2f90944299a097D8D</mark>
-  * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
+* [Contract](https://testnet.bscscan.com/address/0xdd173e8E57143b8F340f90d2f90944299a097D8D) (MegalinkLockup) : <mark style="color:red;">0x32FB138f8738CFC59abDCbCD993339eb64fd426E</mark>
+  * Deployer : 0xa44ED2FB17239bBd77E0975F03B4D16acCe05D94&#x20;
   * Network : BSC Testnet
   * Solidity Compiler Version : v0.8.19
   * Verified : False ([ABI Information](https://mantisco.atlassian.net/wiki/spaces/BLOCKCHAIN/pages/428376865/CV+Contract+ABI))
@@ -54,7 +54,7 @@ description: 'Updated : 2024.07.24'
 
 
 
-### 📌 Lockup (Vesting) - Investor 2
+### 📌 Lockup (Vesting) - Investor JP
 
 * [Contract](https://testnet.bscscan.com/address/0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D) (MegalinkLockup) : <mark style="color:red;">0x8ae5Cbaf84A72A0E95492A730219eA472a5ca92D</mark>
   * Deployer : 0x79c83E724b6C875001C799bEB6068014C1BBb513 (Ledger - Dev Team)
