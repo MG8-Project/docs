@@ -26,7 +26,7 @@ description: 'Updated : 2024.07.24'
 
 ### 📌 Lockup (Vesting) - Ecosystem Growth
 
-* [Contract](https://testnet.bscscan.com/address/0xdd173e8E57143b8F340f90d2f90944299a097D8D) (MegalinkLockup) : <mark style="color:red;">0x32FB138f8738CFC59abDCbCD993339eb64fd426E</mark>
+* [Contract](https://testnet.bscscan.com/address/0x32FB138f8738CFC59abDCbCD993339eb64fd426E) (MegalinkLockup) : <mark style="color:red;">0x32FB138f8738CFC59abDCbCD993339eb64fd426E</mark>
   * Deployer : 0xa44ED2FB17239bBd77E0975F03B4D16acCe05D94&#x20;
   * Network : BSC Testnet
   * Solidity Compiler Version : v0.8.19
