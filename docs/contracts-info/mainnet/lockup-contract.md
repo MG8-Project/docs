@@ -76,6 +76,10 @@ description: 'Updated : 2024.07.24'
   * Solidity Compiler Version : v0.8.19
   * Verified : False&#x20;
 
+> More Details
+>
+> * 락업 토큰  : MG8 (0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99)
+
 
 
 ### 📌 Lockup (Vesting) - Core Team
