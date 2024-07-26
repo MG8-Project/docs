@@ -70,7 +70,7 @@ description: 'Updated : 2024.07.24'
 
 ### 📌 Lockup (Vesting) - Investor JP
 
-* [Contract](https://bscscan.com/address/0x3F103530068c442CA1b688B7F4936EC5EBbc0600) (MegalinkLockup) : 0x3F103530068c442CA1b688B7F4936EC5EBbc0600
+* [Contract](https://bscscan.com/address/0x3F103530068c442CA1b688B7F4936EC5EBbc0600) (MegalinkLockup) : <mark style="color:red;">0x3F103530068c442CA1b688B7F4936EC5EBbc0600</mark>
   * Deployer : 0xC3932FFD8D85697f4c18Cce2Fb4Dc93b81a9aE49 (Ledger - Dev Team)
   * Network : BSC Mainnet
   * Solidity Compiler Version : v0.8.19
