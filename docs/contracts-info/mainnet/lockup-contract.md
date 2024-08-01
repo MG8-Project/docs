@@ -79,6 +79,7 @@ description: 'Updated : 2024.07.24'
 > More Details
 >
 > * 락업 토큰  : MG8 (0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99)
+> * Owner : 0xCD3b464aB444f5D3Ff77dE5E342732f32a061651
 
 
 
