@@ -7,7 +7,7 @@ description: 'Update date: 2024.08.20'
 ## 📌 \[DEV] Contract Information
 
 * Contract&#x20;
-  * [W3CSwap](https://testnet.bscscan.com/address/0xf12c7be9a916C019eBCC00F04E996722c26222e5) **:** <mark style="color:red;">0xf12c7be9a916C019eBCC00F04E996722c26222e5</mark>
+  * [W3CSwap](https://testnet.bscscan.com/address/0x6Bd61C77fCF24af315608f5379E2aAAb876da9Da) **:** <mark style="color:red;">0x6Bd61C77fCF24af315608f5379E2aAAb876da9Da</mark>
 * Deployer :  0x79c83E724b6C875001C799bEB6068014C1BBb513 (Dev Team AC-1)
 * Network : BSC Testnet
 * Solidity Compiler Version : v0.8.19
