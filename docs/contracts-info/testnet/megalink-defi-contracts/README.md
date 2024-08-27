@@ -19,7 +19,7 @@ description: 'Updated : 2024.07.05'
       * [MegaSwap Pair Staking Router :](https://testnet.bscscan.com/address/0x3523d8Bf06358079CE9100F12eCC855cF2E6684a) <mark style="color:red;">0x3523d8Bf06358079CE9100F12eCC855cF2E6684a</mark>
       * [MegaSwap Pair Swap Router](https://testnet.bscscan.com/address/0x910e5442e522023D450A68ddDDef55D904C628B4) **:** <mark style="color:red;">0x910e5442e522023D450A68ddDDef55D904C628B4</mark>
       * [MegaSwap Compute](https://testnet.bscscan.com/address/0x1d74bAA3b97EDaA92f71d36c476428066BBB4B08) : <mark style="color:red;">0x1d74bAA3b97EDaA92f71d36c476428066BBB4B08</mark>
-      * [MegaSwap Pair (MG8-HART)](https://testnet.bscscan.com/address/0x3bE41e9A128268E21E7DE602B7b7EEc09aF1604E) : <mark style="color:red;">0x3bE41e9A128268E21E7DE602B7b7EEc09aF1604E</mark>
+      * [MegaSwap Pair (MG8-HART)](https://testnet.bscscan.com/address/0x47F9C5f3954f39c006c882A1B92c6f1A4E9Cb81B) : <mark style="color:red;">0x47F9C5f3954f39c006c882A1B92c6f1A4E9Cb81B</mark>
   * Vault contracts
     * [Staked Megalink Token Contract](https://testnet.bscscan.com/address/0xB422Df78E9AC1D8F80bc0b20f9Cc0C6Bc2ff48a3) : <mark style="color:red;">0xB422Df78E9AC1D8F80bc0b20f9Cc0C6Bc2ff48a3</mark>
     * [Vault Router V2 Contract](https://testnet.bscscan.com/address/0x475982F585d6bCDc35c1731948e7BE7b48858170) : <mark style="color:red;">0x475982F585d6bCDc35c1731948e7BE7b48858170</mark>
