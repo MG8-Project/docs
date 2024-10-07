@@ -10,7 +10,7 @@
   * [Megalink Defi Contracts](contracts-info/mainnet/megalink-defi-contracts/README.md)
     * [LP Token Contract](megalink/mainnet/megalink-defi-contracts/lp-token-contract.md)
     * [MegaSwap Contracts](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/README.md)
-      * [wMatic Token Contract](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/wmatic-token-contract.md)
+      * [wCoin Token Contract](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/wcoin-token-contract.md)
       * [Pair Pool contracts](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/pair-pool-contracts.md)
       * [Functions](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/functions/README.md)
         * [MegaSwapPairFactory](megalink/mainnet/megalink-defi-contracts/megaswap-contracts/functions/megaswappairfactory/README.md)
