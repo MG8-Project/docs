@@ -15,6 +15,8 @@ description: 'Update date: 2024.10.09'
 
 > More Details
 >
-> * Relayer EOA :
+> * Admin
+>   * 0xFA4206DC5cC815aa1e7d0B3535280B80f4219cD6
+> * Swap Fee Recipient :
 >   * 0xC3932FFD8D85697f4c18Cce2Fb4Dc93b81a9aE49
 
