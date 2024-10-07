@@ -1,5 +1,5 @@
 ---
-description: 'Updated : 2024.07.05'
+description: 'Updated : 2024.10.09'
 ---
 
 # Megalink Defi Contracts
@@ -8,17 +8,18 @@ description: 'Updated : 2024.07.05'
 
 ## 📌  Contract Information <a href="#stg-contract-information" id="stg-contract-information"></a>
 
-*   Contract
+* Contract
+  * LP Token Contract :&#x20;
+  * MegaSwap Contract :
+    * [wCoin Token](https://bscscan.com/address/0xEA8cc636CEa92caEdd4D4888896A93B8721Af84e) : <mark style="color:red;">0xEA8cc636CEa92caEdd4D4888896A93B8721Af84e</mark>
+    * Pair Pool contracts
+      * [MegaSwap Pair Factory](https://bscscan.com/address/0x8c3CEeB5024556D625052fEFea66AF91e566ce46)[ ](https://amoy.polygonscan.com/address/0x7F8dFD8D40a833cDA4816dFC429820F03fBCCf70): <mark style="color:red;">0x8c3CEeB5024556D625052fEFea66AF91e566ce46</mark>
+      * [MegaSwap Pair Staking Router :](https://bscscan.com/address/0x1A9d26Bb6E55623236F2aB6FCf4802FEB35cdB32) <mark style="color:red;">0x1A9d26Bb6E55623236F2aB6FCf4802FEB35cdB32</mark>
+      * [MegaSwap Pair Swap Router](https://bscscan.com/address/0x1dA6ca7C135D93a3BE86Bd7BD0f381914095dd62) **:** <mark style="color:red;">0x1dA6ca7C135D93a3BE86Bd7BD0f381914095dd62</mark>
+      * [MegaSwap Compute](https://bscscan.com/address/0xCC8a614B54b3cD2A5477797775d86f9DCD0D7ca1) : <mark style="color:red;">0xCC8a614B54b3cD2A5477797775d86f9DCD0D7ca1</mark>
+      * [MegaSwap Pair (MG8-HART)](https://bscscan.com/address/0x5D126E6eE22baF3c3fCFDa1c6cDE7164727A3774) : <mark style="color:red;">0x5D126E6eE22baF3c3fCFDa1c6cDE7164727A3774</mark>\
 
-    * [LP Token Contract](https://bscscan.com/address/0xEA8cc636CEa92caEdd4D4888896A93B8721Af84e) : <mark style="color:red;">0xEA8cc636CEa92caEdd4D4888896A93B8721Af84e</mark>
-    * [Reward Token Contract](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99) : <mark style="color:red;">0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99</mark>
-    * [Staked Megalink Token Contract](https://bscscan.com/address/0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99) : <mark style="color:red;">0xdC0D0Eb492e4902C5991C5cB2038fB06409e7F99</mark>
-    * [Vault Router V2 Contract](https://bscscan.com/address/0x2AB0B5C1eDB9CFdab975dBbf644d6Ec19E18a1b1) : <mark style="color:red;">0x2AB0B5C1eDB9CFdab975dBbf644d6Ec19E18a1b1</mark>
-    * [Pool1](https://bscscan.com/address/0x6CA80f187978fbce3B0B84C6Ee4d5Ae4baF81503) : <mark style="color:red;">0x6CA80f187978fbce3B0B84C6Ee4d5Ae4baF81503</mark>
-    * [Pool2](https://bscscan.com/address/0xafdB0103E2c55F7bacD875ba1D16A20dE4e293c8) : <mark style="color:red;">0xafdB0103E2c55F7bacD875ba1D16A20dE4e293c8</mark>
-    * [Pool3](https://bscscan.com/address/0xaB9F46784EE77094246E6AeEA78a3eAE0E1D49f0) : <mark style="color:red;">0xaB9F46784EE77094246E6AeEA78a3eAE0E1D49f0</mark>\
 
 
 
-
-    * 상세 정보 하위 페이지 참고.
+* 상세 정보 하위 페이지 참고.
