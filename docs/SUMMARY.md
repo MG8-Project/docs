@@ -133,6 +133,7 @@
       * [doAddToken](megalink/testnet/web3-contents-w3c-contract/managetokenrouter/doaddtoken.md)
     * [ManageNFT](megalink/testnet/web3-contents-w3c-contract/managenft.md)
     * [ManageToken](megalink/testnet/web3-contents-w3c-contract/managetoken.md)
+  * [HAR NFT Contracts](megalink/testnet/har-nft-contracts.md)
   * [Referall Manager Contract](contracts-info/testnet/referall-manager-contract.md)
   * [Lockup Contract](contracts-info/testnet/lockup-contract.md)
   * [Helper Contracts](contracts-info/testnet/helper-contracts/README.md)
